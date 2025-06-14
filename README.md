@@ -7,7 +7,7 @@ Maa Travels is a web app for managing college bus services, built with PHP, Tail
 - Payments: Pay via card or UPI securely.
 - Receipts: Download PDFs or export CSVs.
 - Dashboard: View payments, routes, and activity.
-- Profile & Settings: Update details and preferences.
+- Profile: Update details and preferences.
 - Admin Panel: Manage users, routes, and payments.
 - Responsive UI: Tailwind CSS for all devices.
 - Security: CSRF protection, password hashing.
@@ -33,7 +33,6 @@ $username = "root";
 $password = "";
 $port = 3306;
 $dbname = "maatravels";
-
 Tables auto-create via config.php or import maatravels.sql if available.
 
 ## Run App:
@@ -52,7 +51,7 @@ L- og in to access admin/index.php.
 - Routes (routes.php): Select bus routes.
 - Payments (payment.php): Secure payment form.
 - Receipts (receipt.php): View/export receipts.
-- Profile/Settings (profile.php, settings.php): Manage details and preferences.
+- Profile (profile.php): Manage details and preferences.
 - Admin Panel (admin/*.php): Manage system data.
 - Contact (contact.php): Submit inquiries.
 - About (about.php): Mission and vision.
