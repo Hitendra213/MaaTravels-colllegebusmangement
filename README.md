@@ -19,7 +19,7 @@ Maa Travels is a web app for managing college bus services, built with PHP, Tail
 - Start Apache and MySQL in XAMPP Control Panel.
 
 ## Clone Repository:
-- git clone https://github.com/Hitendra213/Maa-Travels.git
+- git clone https://github.com/Hitendra213/MaaTravels-colllegebusmangement.git
 
 ## Move to XAMPP:
 - Copy Maa-Travels to C:\xampp\htdocs.
@@ -27,13 +27,13 @@ Maa Travels is a web app for managing college bus services, built with PHP, Tail
 
 ## Set Up Database:
 - In http://localhost/phpmyadmin, create database maatravels.
-Update includes/config.php:
-$servername = "localhost";
-$username = "root";
-$password = "";
-$port = 3306;
-$dbname = "maatravels";
-Tables auto-create via config.php or import maatravels.sql if available.
+- Update includes/config.php:
+- $servername = "localhost";
+- $username = "root";
+- $password = "";
+- $port = 3306;
+- $dbname = "maatravels";
+- Tables auto-create via config.php or import maatravels.sql if available.
 
 ## Run App:
 - Access http://localhost/Maa-Travels.
