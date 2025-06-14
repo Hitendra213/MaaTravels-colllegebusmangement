@@ -1,20 +1,20 @@
-Maa Travels 🚌
+# Maa Travels 🚌
 Maa Travels is a web app for managing college bus services, built with PHP, Tailwind CSS, and MySQL using XAMPP. It simplifies user registration, route selection, payments, and receipts for students, with an admin panel for oversight.
-Key Features 🚀
 
-User Auth: Secure registration and login.
-Route Selection: Browse and select bus routes.
-Payments: Pay via card or UPI securely.
-Receipts: Download PDFs or export CSVs.
-Dashboard: View payments, routes, and activity.
-Profile & Settings: Update details and preferences.
-Admin Panel: Manage users, routes, and payments.
-Responsive UI: Tailwind CSS for all devices.
-Security: CSRF protection, password hashing.
+## Key Features 🚀
+- User Auth: Secure registration and login.
+- Route Selection: Browse and select bus routes.
+- Payments: Pay via card or UPI securely.
+- Receipts: Download PDFs or export CSVs.
+- Dashboard: View payments, routes, and activity.
+- Profile & Settings: Update details and preferences.
+- Admin Panel: Manage users, routes, and payments.
+- Responsive UI: Tailwind CSS for all devices.
+- Security: CSRF protection, password hashing.
 
-Installation 🛠
+## Installation 🛠
 
-Install XAMPP:
+## Install XAMPP:
 
 Download from apachefriends.org.
 Start Apache and MySQL in XAMPP Control Panel.
